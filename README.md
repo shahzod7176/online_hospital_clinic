@@ -1,6 +1,6 @@
 # Online Hospital Clinic
 
-![Project Banner]((https://media.gettyimages.com/id/1312706413/photo/modern-hospital-building.jpg?s=170667a&w=gi&k=20&c=vxuVz6G6Z92PvbODh1wtOOtEMFk41-pfQoaLFCIHCIo=))
+![Modern Hospital Building](https://media.gettyimages.com/id/1312706413/photo/modern-hospital-building.jpg?s=170667a&w=gi&k=20&c=vxuVz6G6Z92PvbODh1wtOOtEMFk41-pfQoaLFCIHCIo=)
 
 ## Overview
 
