@@ -24,10 +24,9 @@ Ushbu loyiha shifokorlar, bemorlar va ma'muriyat uchun qulay interfeyslarni takl
 ## Technologies Used
 
 - Backend: Django / Django REST Framework
-- Frontend: React / Vue.js / (siz ishlatgan texnologiyani kiriting)
-- Database: PostgreSQL / MySQL / SQLite (siz ishlatgan DB)
-- Authentication: JWT / OAuth / Session-based (sizning yechim)
-- Deployment: Docker / Heroku / AWS / (siz joylashtirgan platforma)
+- Database: PostgreSQL / MySQL / SQLite (PostgreSQL)
+- Authentication: JWT / OAuth / Session-based (JWTauth)
+- Deployment: Docker / Heroku / AWS / (Docker)
 
 ---
 
